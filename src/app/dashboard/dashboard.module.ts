@@ -13,7 +13,8 @@ import { HomeComponent } from './home/home.component';
   ],
   imports: [
     CommonModule,
-    DashboardRoutingModule
+    DashboardRoutingModule,
+
   ]
 })
 export class DashboardModule { }
